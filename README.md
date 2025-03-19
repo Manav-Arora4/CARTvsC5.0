@@ -18,6 +18,7 @@ The project was developed as part of a **university assignment**, with the **C5.
 
 ## Dataset
 The **UCI Credit Card dataset** is used in this project. It contains financial and demographic information on credit card holders, with the target variable being **`default.payment.next.month`**, which indicates whether a customer defaults on their payment.
+Kaggle link: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
 ---
 
